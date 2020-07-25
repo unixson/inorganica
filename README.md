@@ -1,2 +1,3 @@
 # inorganica
 En este sitio depositamos los cuadernos de jupyter de la clase de quimica inorganica del Departamento de Ciencias Químico Biológicas. Construidos por los estudiantes de manera colaborativa, para <u>desarrollar competencias en el area de la quimioinformatica</u> y aplicar los fundamentos de la información al aprendizaje de la química. Utilizaremos el Lenguaje Markdown para documentar nuestros programas escritos en Python, los cuales podrán ser revisados sin necesidad de instalar software especial a traves de Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/unixson/inorganica/master)
